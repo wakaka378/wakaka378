@@ -1,5 +1,6 @@
 
 ![](https://rishavanand.github.io/static/images/greetings.gif)
+
 ### Hi there 👋
 
 
@@ -12,6 +13,7 @@
 [![](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=ffffff)](https://reactjs.org/)
+- ![](https://visitor-badge.glitch.me/badge?page_id=gebilaofan.readme)
 - 💼 Find new work
 - :house: BeiJing
 - :email: gebilaofl@163.com
@@ -32,6 +34,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebilaofan&layout=compact" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+
 
 
