@@ -1,6 +1,4 @@
 
-![](https://rishavanand.github.io/static/images/greetings.gif)
-
 ### Hi there 👋
 
 
