@@ -2,7 +2,7 @@
 ### Hi there 👋
 #### A Vuer
 
-<!-- ![](https://komarev.com/ghpvc/?username=gebilaofan&&style=flat-square"align="center) -->
+<!-- ![](https://komarev.com/ghpvc/?username=wakaka378&&style=flat-square"align="center) -->
 
 - [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=ffffff)](https://reactjs.org/)
@@ -11,25 +11,25 @@
 [![](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=ffffff)](https://reactjs.org/)
-- ![](https://visitor-badge.glitch.me/badge?page_id=gebilaofan.readme)
+- ![](https://visitor-badge.glitch.me/badge?page_id=wakaka378.readme)
 - 💼 Find new work
 - :house: BeiJing
 - :email: gebilaofl@163.com
 
-#### [个人简历](https://github.com/gebilaofan/Resume)
+#### [个人简历](https://github.com/wakaka378/Resume)
 
 
 
 <!-- 展示个人访问 -->
-<!-- ![Visitor Count](https://profile-counter.glitch.me/gebilaofan/count.svg) -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/wakaka378/count.svg) -->
 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gebilaofan&count_private=true&show_icons=true&bg_color=45,e9533e,88418a&hide_border=true&title_color=fff&text_color=fff&icon_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wakaka378&count_private=true&show_icons=true&bg_color=45,e9533e,88418a&hide_border=true&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebilaofan&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakaka378&layout=compact" />
 </a>
 
 
